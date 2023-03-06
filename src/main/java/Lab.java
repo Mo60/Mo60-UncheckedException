@@ -15,8 +15,7 @@ public class Lab {
      */
     public void throwUncheckedException(){
         int num;
-
-        
+       
         num = Integer.parseInt("five");
 
     }
